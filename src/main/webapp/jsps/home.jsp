@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV ENDING </h1>     
+     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV ENDING gcreddy15</h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
@@ -59,7 +59,7 @@
         <%
             InetAddress inetAddress = InetAddress.getLocalHost();
             String ip = inetAddress.getHostAddress();
-            out.println("<p><b>Server Host Name:</b> " + inetAddress.getHostName() + "</p>");
+            out.println("<p><b>Server Host Name:</b> " + inetAddress.getHostName()  + "</p>");
             out.println("<p><b>Server IP Address:</b> " + ip + "</p>");
         %>
     </div>

@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV ENDING12345678 </h1>     
+     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV Gcreddy02 </h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 

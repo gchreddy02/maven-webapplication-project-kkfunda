@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV Gcreddy02 SCM poll</h1>     
+     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START ON NOV Gcreddy02 web wooks</h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
